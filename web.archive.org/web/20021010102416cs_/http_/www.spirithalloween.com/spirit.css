@@ -1,0 +1,43 @@
+
+p         { color: #fff; font-weight: bolder; font-size: 10pt; line-height: 12pt; font-family: Arial, Tahoma, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; padding: 5pt }
+p.subhead { color: #f80; font-weight: bolder; font-size: 20px; line-height: 18px; font-family: "Comic Sans MS", Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; padding: 5pt }
+A:Link { color: #ff7719; font-weight: bolder; font-size: 12px; line-height: 12px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A:visited { color: #ff7719; font-weight: bolder; font-size: 12px; line-height: 12px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.footer:Link  { color: #ff7719; font-weight: bolder; font-size: 11px; line-height: 10px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.prices:Link  { color: #ff7719; font-weight: bolder; font-size: 7pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.rc:Link { color: #060; font-weight: bolder; font-size: 8pt; line-height: 10pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.rc:visited { color: #060; font-weight: bolder; font-size: 8pt; line-height: 10pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.rc:hover { color: #000; font-weight: bolder; font-size: 8pt; line-height: 10pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.footer:visited { color: #ff7719; font-weight: bolder; font-size: 11px; line-height: 10px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.prices:visited  { color: #ff7719; font-weight: bolder; font-size: 7pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.footer:visited { color: #ff7719; font-weight: bolder; font-size: 11px; line-height: 10px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.footer:hover  { color: #ffdc19; font-weight: bolder; font-size: 11px; line-height: 10px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A.prices:hover  { color: #ffdc19; font-weight: bolder; font-size: 7pt; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+A:hover { color: #ffdc19; font-weight: bolder; font-size: 12px; line-height: 12px; font-family: Tahoma, Arial, Helvetica, Geneva, Swiss, SunSans-Regular, "Courier New", Courier, Monaco; text-decoration: none; padding: 0pt }
+.fun    { color: #fff; font-size: 9pt; line-height: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.locations    { color: #fff; font-size: 8pt; line-height: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.clickimage  { color: #fff; font-size: 7pt; line-height: 8pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.xtiny { color: #fff; font-size: 8pt; line-height: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.subhead1 { color: #ff8c00; font-weight: bolder; font-size: 12pt; line-height: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.storename  { color: #fff; font-weight: bolder; font-size: 10pt; line-height: 10pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none; padding-top: 5pt; padding-bottom: 5pt }
+
+/*
+     FILE ARCHIVED ON 10:24:16 Oct 10, 2002 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:46:05 Oct 04, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 183.921
+  exclusion.robots: 0.133
+  exclusion.robots.policy: 0.119
+  cdx.remote: 0.095
+  esindex: 0.014
+  LoadShardBlock: 81.571 (3)
+  PetaboxLoader3.datanode: 71.558 (4)
+  load_resource: 77.501
+  PetaboxLoader3.resolve: 42.85
+*/
